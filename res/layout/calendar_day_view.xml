@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/prevDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/navigate_left" >
+        </Button>
+
+        <Button
+            android:id="@+id/currentDay"
+            android:layout_width="0dip"
+            android:layout_height="50dip"
+            android:background="@drawable/button_back"
+            android:textColor="@android:color/primary_text_dark"
+            android:layout_weight="0.6"
+            android:layout_margin="8dip"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+        </Button>
+
+        <Button
+            android:id="@+id/nextDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/navigate_right" >
+        </Button>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/noBreakTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/noBreakText"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ListView
+        android:id="@+id/breakListView"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+    </ListView>
+    <Button
+        android:id="@+id/addNewBreakButton"
+        android:layout_width="fill_parent"
+        android:layout_height="50dip"
+        android:gravity="center"
+        android:text="@string/addNewBreak"
+        android:background="@drawable/button_back"
+        android:textColor="@android:color/primary_text_dark"
+
+         />
+</LinearLayout>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="notificationType">
+        <item>صوت</item>
+        <item>هزاز</item>
+        <item>رسالة نصية</item>
+    </string-array>
+    <string-array name="templates">
+        <item>لا شيء</item>
+        <item>إستراحة</item>
+        <item>غداء</item>
+        <item>عمل تمارين للتنشيط</item>
+        <item>ري النباتا</item>
+        <item>إطعام القطة</item>
+    </string-array>
+    <string-array name="templateNames">
+        <item>لاشيء</item>
+        <item>في العمل</item>
+        <item>وقت الغداء</item>
+        <item>ساعة للصحة :)</item>
+        <item>النباتات</item>
+        <item>القطة</item>
+    </string-array>
+    <string-array name="daysOfWeek">
+        <item>الأحد</item>
+        <item>الأثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعه</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="shortWeekDays">
+        <item>الأحد</item>
+        <item>الأثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعه</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="silentModeType">
+        <item>لا شئ</item>
+        <item>هزاز</item>
+        <item>نافذة خارجية</item>
+        <item>هزاز و نافذة خارجية</item>
+    </string-array>
+    <string-array name="periodicType">
+        <item>بعد عدة دقائق</item>
+        <item>كل يوم</item>
+        <item>ايام العمل - الأثنين الى الجمعه</item>
+        <item>الأثنين الأربعاء و الجمعة</item>
+        <item>الثلاثاء و الخميس</item>
+        <item>كل أسبوع</item>
+        <item>كل شهر</item>
+        <item>كل سنة</item>
+    </string-array>
+    <string-array name="breakContextMenu">
+        <item>تحرير</item>
+        <item>حذف</item>
+    </string-array>
+
+</resources>

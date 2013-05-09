@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+    <string name="app_name">HaveABreak</string>
+    <string name="addNewBreak">Додати нагадування</string>
+    <string name="calendar">Календар</string>
+    <string name="settings">Налаштування</string>
+    <string name="about">Про програму</string>
+    <string name="switchText">Ввім/Вимк</string>
+    <string name="silentModeText">Тихий режим</string>
+    <string name="reminderServiceTitle">HaveABreak - Нагадування</string>
+    <string name="addNewBreakTitle">HaveABreak - Нове нагадування</string>
+    <string name="editBreakTitle">HaveABreak - Редагувати нагадування</string>
+    <string name="calendarTitle">HaveABreak - Календар</string>
+    <string name="settingsTitle">HaveABreak - Налаштування</string>
+    <string name="silentModeTypeText">Тип тихого режиму</string>
+    <string name="aboutTitle">HaveABreak - Про програму</string>
+    <string name="numberOfDaysText">Кількість днів на головній сторінці</string>
+    <string name="name">Ім`я (обов`язково)</string>
+    <string name="description">Опис (текст нагадування)</string>
+    <string name="startTime">Початковий час</string>
+    <string name="endTime">Кінцевий час</string>
+    <string name="periodic">Період</string>
+    <string name="repeat">Повторити</string>
+    <string name="save">Зберегти</string>
+    <string name="enable">Активний</string>
+    <string name="notificationType">Тип сповіщення</string>
+    <string name="minutePeriod">Період в хвилинах</string>
+    <string name="dayPeriod">Період в днях</string>
+    <string name="weekPeriod">Період в тижнях</string>
+    <string name="chooseDays">Виберіть дні</string>
+    <string name="monthPeriod">Період в місяцях</string>
+    <string name="yearPeriod">Період в роках</string>
+    <string name="none">Нічого</string>
+    <string name="nameEmptyError">Ім`я не повинно бути пустим. Будь-ласка, заповніть це поле.</string>
+    <string name="attentionTitle">Увага</string>
+    <string name="endTimeError">Кінцевий час повинен бути більшим за початковий.</string>
+    <string name="chosenDaysError">Ви повинні вибрати хоча б один день.</string>
+    <string name="shortSunday">Нд</string>
+    <string name="shortMonday">Пн</string>
+    <string name="shortTuesday">Вт</string>
+    <string name="shortWednesday">Ср</string>
+    <string name="shortThursday">Чт</string>
+    <string name="shortFriday">Пт</string>
+    <string name="shortSaturday">Сб</string>
+    <string name="dayCalendarTab">День</string>
+    <string name="weekCalendarTab">Тиждень</string>
+    <string name="monthCalendarTab">Місяць</string>
+    <string name="dots">…</string>
+    <string name="noBreakText">Більше немає нагадувань в цей день…</string>
+    <string name="addNewBreakConfirmation">Нове нагадування було успішно додано</string>
+    <string name="breakDeletedConfiramtionFormat">Нагадування \'%s\' було успішно видалено</string>
+    <string name="breakDeletedErrorFormat">Не вдалося видалити нагадування \'%s\'</string>
+    <string name="breakEditingConfirmation">Нагадування було успішно змінено</string>
+    <string name="silendModeOnNotification">Тихий режим ввімкнений</string>
+    <string name="silendModeOffNotification">Тихий режим вимкнений</string>
+    <string name="applicationSwitchedOnNotification">Програма HaveABreak ввімкнена</string>
+    <string name="applicationSwitchedOffNotification">Програма HaveABreak вимкнена</string>
+    <string name="noBreakMessage">Нагадувань нема</string>
+    <string name="noMoreBreakMessage">На сьогоднішній день нагадувань більше нема</string>
+    <string name="aboutText">&#x9;\t&#x9;"HaveABreak" - програма, створена для того щоб користувач вчасно робив перерви і пом`ятав про важливі речі.
+        \n&#xA;\t&#x9;Програма була створена Андрієм Джирмою та Лілією Чубою як науковий проект. Наукові керівники: проф. Matthias Kranz і Andreas Möller.
+\n&#xA;\t&#x9;Якщо у Вас є питання або пропозиції - зв`яжіться з нами: haveabreak.team@gmail.com
+</string>
+    <string name="template">Шаблон</string>
+    <string name="templates">Шаблони</string>
+</resources>

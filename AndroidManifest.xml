@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="packages.main"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="10" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:theme="@style/SpinnerTheme"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:permission="android.permission.VIBRATE" >
+        <activity
+            android:name=".HaveABreakActivity"
+            android:label="@string/app_name" android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CalendarActivity"
+            android:label="@string/calendarTitle" >
+        </activity>
+        <activity android:name=".CalendarMonthActivity" />
+        <activity android:name=".CalendarWeekActivity" />
+        <activity android:name="CalendarDayActivity" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/settingsTitle" >
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:label="@string/aboutTitle" >
+        </activity>
+        <activity
+            android:name=".AddNewBreakActivity"
+            android:label="@string/addNewBreakTitle" >
+        </activity>
+
+        <receiver android:name="packages.receivers.Reminder" />
+    </application>
+
+</manifest>

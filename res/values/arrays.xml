@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="notificationType">
+        <item>Sound</item>
+        <item>Vibration</item>
+        <item>Description message</item>
+    </string-array>
+    <string-array name="templates">
+        <item>None</item>
+        <item>Take a rest (computer/laptop)</item>
+        <item>Take a lunch</item>
+        <item>Make a physical jerks</item>
+        <item>Water some plants</item>
+        <item>Feed him</item>
+    </string-array>
+    <string-array name="templateNames">
+        <item>None</item>
+        <item>At work</item>
+        <item>Lunch time</item>
+        <item>Healthy Hour :)</item>
+        <item>Plants</item>
+        <item>Cat</item>
+    </string-array>
+    <string-array name="daysOfWeek">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="shortWeekDays">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="silentModeType">
+        <item>None</item>
+        <item>Vibration</item>
+        <item>Popup message</item>
+        <item>Vibration and popup message</item>
+    </string-array>
+    <string-array name="periodicType">
+        <item>Every period (in minutes)</item>
+        <item>Every day</item>
+        <item>On working days (Monday - Friday)</item>
+        <item>On Monday, Wednesday and Friday</item>
+        <item>On Tuesday and Thursday</item>
+        <item>Every week</item>
+        <item>Every month</item>
+        <item>Every year</item>
+    </string-array>
+    <string-array name="breakContextMenu">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+</resources>

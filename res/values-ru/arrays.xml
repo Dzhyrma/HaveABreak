@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="notificationType">
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Всплывающее окно</item>
+    </string-array>
+    <string-array name="templates">
+        <item>Нікакой</item>
+        <item>Отдохнуть от компьютера</item>
+        <item>Перекусить</item>
+        <item>Сделать зарядку</item>
+        <item>Полить цветы</item>
+        <item>Покормить его</item>
+    </string-array>
+    <string-array name="templateNames">
+        <item>Нету</item>
+        <item>На работе</item>
+        <item>Обеденый перерыв</item>
+        <item>Час здоровья :)</item>
+        <item>Цыеты и растения</item>
+        <item>Кот</item>
+    </string-array>
+    <string-array name="shortWeekDays">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Суб</item>
+    </string-array>
+    <string-array name="silentModeType">
+        <item>Ничего</item>
+        <item>Вибрация</item>
+        <item>Всплывающее сообщение</item>
+        <item>Вибрация и всплывающее сообщение</item>
+    </string-array>
+    <string-array name="periodicType">
+        <item>Каждый период (в минутах)</item>
+        <item>Каждый день</item>
+        <item>В рабочие дни (Пн - Пт)</item>
+        <item>В Понедельник, Среду и Пятницу</item>
+        <item>Во Вторник и Четверг</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+        <item>Каждый год</item>
+    </string-array>
+    <string-array name="breakContextMenu">
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+
+</resources>

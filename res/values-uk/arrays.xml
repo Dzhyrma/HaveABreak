@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="notificationType">
+        <item>Звук</item>
+        <item>Вібрація</item>
+        <item>Вспливаюче повідомлення</item>
+    </string-array>
+    <string-array name="templates">
+        <item>Ніякий</item>
+        <item>Відпочити від компьютера</item>
+        <item>Трохи попоїсти</item>
+        <item>Зробити зарядку</item>
+        <item>Полити квіти</item>
+        <item>Накормити його</item>
+    </string-array>
+        <string-array name="templateNames">
+        <item>Ніякий</item>
+        <item>На роботі</item>
+        <item>Обідній час</item>
+        <item>Здорова годинка :)</item>
+        <item>Квіти і рослини</item>
+        <item>Кіт</item>
+    </string-array>
+    <string-array name="daysOfWeek">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П`ятниця</item>
+        <item>Субота</item>
+    </string-array>
+    <string-array name="shortWeekDays">
+        <item>Нед</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Суб</item>
+    </string-array>
+    <string-array name="silentModeType">
+        <item>Нічого</item>
+        <item>Вібрація</item>
+        <item>Вспливаюче повідомлення</item>
+        <item>Вібрація та спливаюче повідомлення</item>
+    </string-array>
+    <string-array name="periodicType">
+        <item>Кожен період (в хвилинах)</item>
+        <item>Кожен день</item>
+        <item>В робочі дні (Понеділок - П`ятниця)</item>
+        <item>В Понеділок, Середу та П`ятницю</item>
+        <item>В Вівторок та Четвер </item>
+        <item>Кожного тижня</item>
+        <item>Кожного місяця</item>
+        <item>Кожного року </item>
+    </string-array>
+<string-array name="breakContextMenu">
+    <item>Редагувати</item>
+    <item>Видалити</item>
+</string-array>
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">اهلا بكم في خدمة خذ رحتك ! </string>
+    <string name="app_name">خذ راحتك</string>
+    <string name="button">زر</string>
+    <string name="addNewBreak">اضف وقت للراحة</string>
+    <string name="calendar">التقويم</string>
+    <string name="settings">اعدادات</string>
+    <string name="about">معلومات</string>
+    <string name="switchText">فتح\غلق</string>
+    <string name="silentModeText">صامت</string>
+    <string name="reminderServiceTitle">وقت الراحة - تنبيه</string>
+    <string name="addNewBreakTitle">وقت الراحة - اضف وقت للراحة</string>
+    <string name="editBreakTitle">وقت الراحة - تعديل</string>
+    <string name="calendarTitle">وقت الراحة - التقويم</string>
+    <string name="settingsTitle">وقت الراحة - اعدادات</string>
+    <string name="silentModeTypeText">نوع الوضع الصامت</string>
+    <string name="aboutTitle">وقت الراحة - معلومات</string>
+    <string name="numberOfDaysText">عدد الأيام في الصفحة الرئيسية</string>
+    <string name="name">الأسم - يجب كتابته</string>
+    <string name="description">تفاصيل - ستظهر عند التنبيه</string>
+    <string name="startTime">بداية الوقت</string>
+    <string name="endTime">نهاية الوقت</string>
+    <string name="periodic">كل فتره</string>
+    <string name="repeat">متكرر</string>
+    <string name="save">حفظ</string>
+    <string name="enable">تمكين</string>
+    <string name="notificationType">نوع التنبيه</string>
+    <string name="minutePeriod">في خلال دقائق</string>
+    <string name="dayPeriod">في خلال ايام</string>
+    <string name="weekPeriod">في خلال دقائق اسابيع</string>
+    <string name="chooseDays">اختر اليوم</string>
+    <string name="monthPeriod">في خلال شهور</string>
+    <string name="yearPeriod">في خلال سنين</string>
+    <string name="none">لا شئ</string>
+    <string name="nameEmptyError">بالرجاء كتابة اسمك</string>
+    <string name="attentionTitle">تحذير</string>
+    <string name="endTimeError">نهاية الوقت يجب ان تكون اكبر من بداية الوقت</string>
+    <string name="chosenDaysError">يجب ان تختار يوم واحد على الأقل في التنبيه كل فتره</string>
+    <string name="shortSunday">الأحد</string>
+    <string name="shortMonday">الأثنين</string>
+    <string name="shortTuesday">الثلاثاء</string>
+    <string name="shortWednesday">الأربعاء</string>
+    <string name="shortThursday">الخميس</string>
+    <string name="shortFriday">الجمعة</string>
+    <string name="shortSaturday">السبت</string>
+    <string name="dayCalendarTab">يوم</string>
+    <string name="weekCalendarTab">اسبوع</string>
+    <string name="monthCalendarTab">شهر</string>
+    <string name="dots">…</string>
+    <string name="noBreakText">لا وقت للراحة في هذا اليوم</string>
+    <string name="addNewBreakConfirmation">تم اضافة وقت الراحة بنجاح</string>
+    <string name="breakDeletedConfiramtionFormat">تم حذف وقت الراحة \'%s\' بنجاح </string>
+    <string name="breakDeletedErrorFormat">لم تم حذف وقت الراحة \'%s\' بنجاح</string>
+    <string name="breakEditingConfirmation">لقد تم تعديل وقت الراحة بنجاح</string>
+    <string name="silendModeOnNotification">فتح و ضع الصامت</string>
+    <string name="silendModeOffNotification">غلق وضع الصامت</string>
+    <string name="applicationSwitchedOnNotification">تم فتح خدمة وقت الراحة</string>
+    <string name="applicationSwitchedOffNotification">تم غلق خدمة وقت الراحة</string>
+    <string name="noBreakMessage">لا وقت للرحة</string>
+    <string name="noMoreBreakMessage">لا يوجد اوقات اضافية للراحة اليوم</string>
+    <string name="aboutText">&#x9;"خذ راحتك - هو عباره عن برنامج لتنبيهك امتى تاخد وقت للراحه في وقت العمل أو في اي وقت ينسبك
+        \n&#x9; لقد تم البرمجة بواسطة اندري و ليليا. المشرف على المشروع: الدكتور ميتياس كارناز و اندريس مولار
+        \n&#x9;لو عندك اي استفسارات او اقتراحات ابعتلنا على الايميل haveabreak.team@gmail.com
+</string>
+    <string name="template">قالب</string>
+    <string name="templates">قوالب</string>
+
+</resources>
